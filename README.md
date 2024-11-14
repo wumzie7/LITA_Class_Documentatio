@@ -64,3 +64,5 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
 ![Hr](https://github.com/user-attachments/assets/c6c96cd4-51ea-4693-a034-075892cab6f2)
 
+https://github.com/wumzie7/LITA_Class_Documentatio/blob/main/Hr.png
+
